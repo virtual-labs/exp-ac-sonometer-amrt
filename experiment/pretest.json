@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The frequency of a sonometer wire is 100 Hz. If the length of the string is doubled and the tension is changed, the new frequency becomes 75 Hz. The ratio of the original and final tensions is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4 : 3",
+        "b": "4 : 9",
+        "c": "9 : 4",
+        "d": "3 : 4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Check the frequency-tension relation f ∝ √T.",
+        "b": "Incorrect. Check using f1/f2 = √(T1/T2).",
+        "c": "Correct. Based on f ∝ √T and L doubled, the correct tension ratio is 9:4.",
+        "d": "Incorrect. Try squaring both sides of f ratio equation."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A knife edge divides a sonometer wire in two parts which differ in lengths by 2 mm. The whole length of the wire is 1 metre. The two parts of the string when sounded together produce one beat per second. Then the frequencies of the smaller and longer parts are",
+      "answers": {
+        "a": "250.5 and 249.5",
+        "b": "249.5 and 250.5",
+        "c": "125.5 and 124.5",
+        "d": "184.5 and 125.5"
+      },
+      "explanations": {
+        "a": "Correct. A 1 cm length difference gives 1 Hz beat frequency.",
+        "b": "Same values reversed. Order matters for the smaller part.",
+        "c": "Incorrect frequency range. Try recalculating with beat frequency.",
+        "d": "Incorrect. Not consistent with 1 m total length."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
     }
   ]
 }
