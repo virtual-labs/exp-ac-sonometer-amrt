@@ -83,7 +83,7 @@ $$= \frac{1}{Ld} \sqrt{\frac{T}{\pi \rho}}$$
 
 Substituting in equation (1) we get;
 
-$$f = \frac{1}{2L} \sqrt{\frac{T}{\frac{\pi d^2 \rho}{4}}}$$
+$$f = \frac{1}{2L} \sqrt{\frac{T}{\frac{\pi d^2 \rho}{4}}}................(2)$$
 
 The law of mass may be put into two additional laws, for strings of circular cross-section, as given below.
 
