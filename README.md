@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Harmonic Motion and Waves Virtual Lab
+<b> Experiment|     <b> A.C Sonometer
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Every object has a natural frequency of vibration. If kinetic energy is applied to an object at a rate that matches its natural frequency, resonance occurs and the object vibrates. In this experiment, a small alternating current, produced by a signal generator, causes an electromagnet to exert a periodic force on a wire stretched over a sonometer box. When the frequency of the applied current matches the natural frequency of the wire segment, resonance occurs, producing maximum vibration.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  virtual_labs@am.amrita.edu
 <b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | Amrita Vishwa Vidyapeetham | .
 2 | . | . | . | . | .
