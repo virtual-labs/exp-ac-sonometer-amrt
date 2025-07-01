@@ -110,4 +110,8 @@
   </tbody>
 </table>
 
+## Result
+
+The frequency of alternating current= ............ Hz
+
 
