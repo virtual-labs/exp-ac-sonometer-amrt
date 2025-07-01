@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A wire under tension vibrates with a frequency of 450 per second. What would be the fundamental frequency if the wire were half as long, twice as thick and under one-fourth tension?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "247 Hz",
+        "b": "190 Hz",
+        "c": "174 Hz",
+        "d": "225 Hz"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Recalculate using frequency formula considering radius and tension.",
+        "b": "Close, but not exact. Review √T and μ ∝ r² effect.",
+        "c": "Correct. Accounts for all changes in string length, radius, and tension.",
+        "d": "Not the right value. Double-check units and square root factors."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "The equation of transverse wave in a string is: y = 8 sin [1.256x - 25.12t] cm. What is the amplitude of the wave?",
+      "answers": {
+        "a": "1.256 cm",
+        "b": "0.0208 m",
+        "c": "8 cm",
+        "d": "25.12 cm"
+      },
+      "explanations": {
+        "a": "Incorrect. That's the wave number.",
+        "b": "Incorrect. Unit mismatch.",
+        "c": "Correct. Amplitude is the coefficient before sine.",
+        "d": "Incorrect. That’s angular frequency."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Thermo emf of thermocouple depends on",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Seebeck effect",
+        "b": "Peltier effect",
+        "c": "Thomson effect",
+        "d": "Joules effect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Seebeck effect governs thermo emf generation.",
+        "b": "Incorrect. Peltier relates to heat at junctions, not emf.",
+        "c": "Related but not the primary cause of thermo emf.",
+        "d": "Incorrect. Joule effect relates to heat due to current."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
